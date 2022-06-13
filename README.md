@@ -1,10 +1,8 @@
-# Remi Oni and Tolulope Fakunle Shell
-
-![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
+# Simple Shell // Written in C // Okoth Onyango and RonCollins Mutembei
 
 ### Description
 
-Remi Oni and Tolulope Fakunle Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+This is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program is written entirely in C as a milestone project under the  ALX Africa Software Engineering Programme, 2022.
 
 ### Installation
 
@@ -44,4 +42,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Remi Oni]([https://github.com/Oni-Jremi]) and [Tolulope Fakunle](https://github.com/Tolulope05).
+Code written by [Okoth Onyango]([https://github.com/OkothOnyango]) and [RonCollins Mutembei].
