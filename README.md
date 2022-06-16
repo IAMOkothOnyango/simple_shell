@@ -42,4 +42,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-Code written by [Okoth Onyango]([https://github.com/OkothOnyango]) and [RonCollins Mutembei].
+Code written by [Okoth Onyango]([https://github.com/OkothOnyango]) and RonCollins Mutembei ([https://github.com/RonCollins-MM]).
